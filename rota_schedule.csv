@@ -1,0 +1,43 @@
+rota_name,day,week_number_is_odd,hours worked
+normal,Monday,1,8
+normal,Tuesday,1,8
+normal,Wednesday,1,8
+normal,Thursday,1,8
+normal,Friday,1,8
+normal,Saturday,1,0
+normal,Sunday,1,0
+normal,Monday,0,8
+normal,Tuesday,0,8
+normal,Wednesday,0,8
+normal,Thursday,0,8
+normal,Friday,0,8
+normal,Saturday,0,0
+normal,Sunday,0,0
+Week 1 friday off,Monday,1,9
+Week 1 friday off,Tuesday,1,9
+Week 1 friday off,Wednesday,1,9
+Week 1 friday off,Thursday,1,9
+Week 1 friday off,Friday,1,0
+Week 1 friday off,Saturday,1,0
+Week 1 friday off,Sunday,1,0
+Week 1 friday off,Monday,0,9
+Week 1 friday off,Tuesday,0,9
+Week 1 friday off,Wednesday,0,9
+Week 1 friday off,Thursday,0,9
+Week 1 friday off,Friday,0,8
+Week 1 friday off,Saturday,0,0
+Week 1 friday off,Sunday,0,0
+Week 1 friday in,Monday,1,9
+Week 1 friday in,Tuesday,1,9
+Week 1 friday in,Wednesday,1,9
+Week 1 friday in,Thursday,1,9
+Week 1 friday in,Friday,1,8
+Week 1 friday in,Saturday,1,0
+Week 1 friday in,Sunday,1,0
+Week 1 friday in,Monday,0,9
+Week 1 friday in,Tuesday,0,9
+Week 1 friday in,Wednesday,0,9
+Week 1 friday in,Thursday,0,9
+Week 1 friday in,Friday,0,0
+Week 1 friday in,Saturday,0,0
+Week 1 friday in,Sunday,0,0
